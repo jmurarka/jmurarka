@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Jhanvi!<br><br>I'm a Computer Science student passionate about Machine Learning, Data Science, Robotics, and AI. I enjoy building projects that combine software engineering with intelligent systems, and I'm constantly learning new technologies to expand my skills.<br><br>🔹 Interested in AI, LLMs, and Data Science<br>🔹 Exploring Full-Stack Development with React & FastAPI<br>🔹 Practicing DSA and strengthening CS fundamentals<br>🔹 Open to collaboration on innovative projects
+👋 Hi, I'm Jhanvi!<br><br>I'm a Computer Science student passionate about Machine Learning, Data Science, and AI. I enjoy building projects that combine software engineering with intelligent systems, and I'm constantly learning new technologies to expand my skills.<br><br>🔹 Interested in AI, LLMs, and Data Science<br>🔹 Exploring Full-Stack Development with React & FastAPI<br>🔹 Practicing DSA and strengthening CS fundamentals<br>🔹 Open to collaboration on innovative projects
 
 
 ## 🌐 Socials:
