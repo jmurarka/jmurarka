@@ -1,15 +1,417 @@
-# 💫 About Me:
-👋 Hi, I'm Jhanvi!<br><br>I'm a Computer Science student passionate about Machine Learning, Data Science, and AI. I enjoy building projects that combine software engineering with intelligent systems, and I'm constantly learning new technologies to expand my skills.<br><br>🔹 Interested in AI, LLMs, and Data Science<br>🔹 Exploring Full-Stack Development with React & FastAPI<br>🔹 Practicing DSA and strengthening CS fundamentals<br>🔹 Open to collaboration on innovative projects
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,50:7C3AED,100:312E81&text=Jhanvi%20Murarka&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhanvi-murarka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jhanvimurarka@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jmurarka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=jmurarka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jmurarka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Software+Engineering+%7C+AI%2FML+%7C+Full+Stack+Development;Building+Scalable+Products+and+Intelligent+Systems;Machine+Learning+%7C+LLMs+%7C+Cloud+Engineering;Open+Source+Contributor+and+Problem+Solver" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/><br/>
+
+![](https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/AI%20%26%20ML-Specialization-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Data%20Science-Enthusiast-312E81?style=for-the-badge)
+
+<br/>
+
+![](https://img.shields.io/badge/Location-Durgapur%2C%20India-6D28D9?style=for-the-badge)
+
+<br/><br/>
+
+<a href="https://portfolio.example.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-Profile-1F2937?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=4F46E5)
+![](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=312E81)
+
+</div>
+
+---
+
+# About Me
+
+I am a Software Engineering and Artificial Intelligence enthusiast focused on building scalable, reliable, and impactful technology products. My interests span Full Stack Development, Machine Learning, Deep Learning, Large Language Models, Cloud Computing, Data Engineering, and Product Development.
+
+I enjoy solving complex engineering challenges by combining strong software fundamentals with modern AI capabilities. My goal is to create intelligent systems that deliver measurable value, exceptional user experiences, and production-grade performance.
+
+With a strong interest in enterprise software architecture, backend engineering, and AI-driven applications, I continuously explore emerging technologies and contribute to projects that bridge research with real-world deployment.
+
+### Open To
+
+- Software Engineering Internships
+- AI/ML Engineering Roles
+- Full Stack Development Opportunities
+- Research Collaborations
+- Open Source Contributions
+- Product Engineering Projects
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,sql,bash" />
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite" />
+</p>
+
+## Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,postgres,mysql,mongodb,redis" />
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,postman,nginx,vscode" />
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|----------|----------|
+| Machine Learning | Advanced | Supervised & Unsupervised Learning, Model Optimization |
+| Deep Learning | Advanced | CNNs, RNNs, Transformers, Transfer Learning |
+| NLP | Advanced | Text Classification, Embeddings, LLM Applications |
+| Generative AI | Advanced | Prompt Engineering, RAG Systems, Agent Workflows |
+| Computer Vision | Intermediate | Object Detection, Image Classification |
+| MLOps | Intermediate | Model Deployment, Monitoring, Pipelines |
+| Data Science | Advanced | Statistical Analysis, Data Visualization |
+| LLM Engineering | Advanced | LangChain, RAG, Vector Databases, AI Assistants |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>📌 AI Powered Book Recommendation Platform</b></summary>
+
+### Overview
+
+A swipe-based recommendation platform inspired by modern consumer applications, helping users discover books through intelligent personalization.
+
+| Category | Details |
+|----------|----------|
+| Stack | React, FastAPI, Python, PostgreSQL |
+| Scale | Multi-user Recommendation System |
+| Performance | Optimized API Response Times |
+| Security | JWT Authentication |
+| Impact | Personalized Book Discovery |
+| Repository | [View Project](https://github.com/yourusername/project) |
+
+### Professional Summary
+
+Designed and developed a full-stack recommendation platform integrating AI-driven ranking systems, scalable APIs, and user-centric interfaces. Focused on personalization, usability, and extensibility for future recommendation models.
+
+</details>
+
+<details>
+<summary><b>📌 Enterprise RAG Knowledge Assistant</b></summary>
+
+### Overview
+
+A Retrieval-Augmented Generation platform enabling enterprise document search and conversational intelligence.
+
+| Category | Details |
+|----------|----------|
+| Stack | Python, FastAPI, LangChain, Vector DB |
+| Scale | Enterprise Knowledge Search |
+| Performance | Low Latency Retrieval |
+| Security | Role Based Access Control |
+| Impact | Improved Information Discovery |
+| Repository | [View Project](https://github.com/yourusername/project) |
+
+### Professional Summary
+
+Implemented document ingestion pipelines, vector embeddings, retrieval workflows, and LLM orchestration for accurate enterprise search experiences.
+
+</details>
+
+<details>
+<summary><b>📌 Cloud Native Microservices Platform</b></summary>
+
+### Overview
+
+A distributed backend platform designed with cloud-native engineering principles.
+
+| Category | Details |
+|----------|----------|
+| Stack | Docker, Kubernetes, Node.js, PostgreSQL |
+| Scale | Microservices Architecture |
+| Performance | Horizontal Scalability |
+| Security | Secure API Gateway |
+| Impact | High Availability Systems |
+| Repository | [View Project](https://github.com/yourusername/project) |
+
+### Professional Summary
+
+Built containerized services with orchestration support, automated deployment pipelines, monitoring, and scalable cloud infrastructure.
+
+</details>
+
+<details>
+<summary><b>📌 Machine Learning Prediction Suite</b></summary>
+
+### Overview
+
+A collection of production-ready machine learning systems addressing business intelligence use cases.
+
+| Category | Details |
+|----------|----------|
+| Stack | Python, Scikit-Learn, Pandas, Flask |
+| Scale | Multi-Domain Prediction Models |
+| Performance | Optimized Inference Pipelines |
+| Security | Secure Data Processing |
+| Impact | Data-Driven Decision Making |
+| Repository | [View Project](https://github.com/yourusername/project) |
+
+### Professional Summary
+
+Developed end-to-end machine learning workflows covering feature engineering, training, deployment, and monitoring.
+
+</details>
+
+---
+
+# Experience
+
+## AI/ML Engineering Intern
+### Company Name
+
+**Jan 2025 – Present**
+
+Working on machine learning solutions, backend services, and intelligent automation systems for scalable software products.
+
+**Scope of Work**
+
+- Designed and optimized machine learning pipelines
+- Built backend APIs for AI applications
+- Worked on LLM-based solutions
+- Automated data workflows
+- Collaborated on product engineering initiatives
+
+**Skills**
+
+`Python` `Machine Learning` `FastAPI` `Deep Learning` `LLMs` `PostgreSQL`
+
+---
+
+## Full Stack Developer
+
+### Freelance / Independent Projects
+
+**2024 – Present**
+
+Developing modern web applications and scalable software systems using industry-standard engineering practices.
+
+**Scope of Work**
+
+- Frontend architecture design
+- Backend API development
+- Database modeling
+- Cloud deployment
+- Performance optimization
+
+**Skills**
+
+`React` `Node.js` `FastAPI` `AWS` `Docker` `PostgreSQL`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|------------|---------|
+| Academic Excellence | Consistent Performance in Computer Science |
+| AI/ML Projects | Built Multiple End-to-End AI Systems |
+| Open Source | Active Contributor to Learning Projects |
+| Competitive Programming | Strong Problem Solving Foundation |
+| Product Development | Designed Full Stack Applications |
+
+</div>
+
+---
+
+# Certifications
+
+## AWS
+
+![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## Oracle
+
+![](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+## NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Programming%20and%20Data%20Science-5B21B6?style=for-the-badge)
+
+## Cisco
+
+![](https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced Machine Learning
+  - Deep Learning with PyTorch
+  - LLM Engineering
+  - Distributed Systems
+  - System Design
+
+Building:
+  - AI Powered Applications
+  - Recommendation Systems
+  - Full Stack Products
+  - Enterprise AI Workflows
+
+Exploring:
+  - Agentic AI
+  - Retrieval Augmented Generation
+  - Cloud Native Engineering
+  - MLOps
+
+Open_To:
+  - Software Engineering Internships
+  - AI/ML Engineering Roles
+  - Open Source Collaboration
+  - Research Opportunities
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://portfolio.example.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering scalable systems today while building intelligent systems for tomorrow."*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4C1D95,50:7C3AED,100:312E81"/>
+
+</div>
